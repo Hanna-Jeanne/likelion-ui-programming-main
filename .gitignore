@@ -1,0 +1,9 @@
+node_modules
+server
+dist
+
+.DS_Store
+.env.local
+.env
+
+FEEDBACK.md
